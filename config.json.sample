@@ -1,0 +1,16 @@
+{
+    "firstname": "My Firstname",
+    "lastname": "My Lastname",
+    "birthDay": "01/01/1980",
+    "birthPlace": "My City",
+    "address": "My Address",
+    "town": "Nice",
+    "postCode": "06000",
+    "workCheckBox": true,
+    "shoppingCheckBox": true,
+    "healthCheckBox": true,
+    "famillyCheckBox": true,
+    "sportCheckBox": true,
+    "legalCheckBox": true,
+    "missionsCheckBox": true
+}
